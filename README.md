@@ -11,7 +11,7 @@ plugins: [
 ...
 ```
 
-To use just use classes as follows:
+To use just add classes as follows:
 ```
 <h1 class='text-gray-12'>Text here...</h1>
 ```
